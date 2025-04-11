@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Erick👋🏽
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/erickduraes)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickduraes0724@gmail.com)
-
-
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickDuraes&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDuraes&hide_progress=true)
 
