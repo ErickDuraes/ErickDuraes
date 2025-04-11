@@ -1,43 +1,22 @@
-# Bem-vindo ao meu GitHub! 🚀
+### Olá! Eu sou o Erick👋🏽
 
-Olá! Sou um entusiasta de **Cibersegurança** e tecnologia, sempre buscando inovar e proteger o mundo digital. 🌐🔒
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/erickduraes)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickduraes0724@gmail.com)
 
----
 
-## 🛠️ Tecnologias que Domino:
+![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickDuraes&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDuraes&hide_progress=true)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![AI](https://img.shields.io/badge/Inteligência_Artificial-5C2D91?style=for-the-badge&logo=ai&logoColor=white)
+### Tecnologia que uso no meu dia
 
----
 
-## 🌟 GitHub Stats:
+<div style="display: inline_block"><br/>
+   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="Java Script" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<div/><br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
+Meu propósito é ir além dos limites e criar projetos que transformem o mundo digital. Com habilidades em Python, HTML, CSS, JavaScript e Inteligência Artificial, estou comprometido em desenvolver soluções disruptivas que deixam uma marca permanente, redefinem padrões e impulsionam mudanças reais.
 
----
 
-## 📫 Contato:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusername)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-
----
-
-## 🌱 Projetos Destacados:
-
-1. **[Nome do Projeto de Cibersegurança](#)**: Uma breve descrição do projeto e o que ele resolve.
-2. **[Nome do Projeto com IA](#)**: Uma aplicação prática de inteligência artificial.
-3. **[Nome do Projeto com Front-End](#)**: Um exemplo do seu trabalho com HTML, CSS e JavaScript.
-
----
-
-## 🌍 Vamos Conectar?
-
-A tecnologia transforma o mundo, e juntos podemos construir algo incrível. Confira meus repositórios e não hesite em entrar em contato para colaborações ou ideias. 🚀
-
-Obrigado por visitar meu perfil!
