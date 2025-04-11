@@ -1,4 +1,6 @@
-### Olá! Eu sou o Erick👋🏽
+### Olá! Eu sou o Erick Durães👋🏽
+[Meu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+[Meu Gmail](mailto:seuemail@gmail.com)
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickDuraes&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDuraes&hide_progress=true)
